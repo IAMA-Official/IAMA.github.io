@@ -26,8 +26,8 @@ redirect_from:
  - 主办方：国际艺术与音乐协会【The International Association of Music and Arts】
 
 ## 票价详讯：
- - > VIP票 $80 
- - > 普通票 $30
+ - VIP票 $80
+ - 普通票 $30
 
 **门票火热发售中，欢迎您的到来！**
 
