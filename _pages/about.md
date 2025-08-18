@@ -19,9 +19,9 @@ redirect_from:
 这是一次用歌声传递文化的盛会，也是一次在月圆之夜汇聚心灵的相遇。让我们在音乐中团圆，在艺术中共鸣！
 
 ## 演出详讯：
-> 时间：2025年9月19日晚7点
-> 地点：Plano Courtyard Theatre
-> 主办方：国际艺术与音乐协会【The International Association of Music and Arts】
+ - 时间：2025年9月19日晚7点
+ - 地点：Plano Courtyard Theatre
+ - 主办方：国际艺术与音乐协会【The International Association of Music and Arts】
 
 ## 票价详讯：
 > VIP票 $80 
