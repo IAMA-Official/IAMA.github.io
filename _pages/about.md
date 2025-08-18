@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "月圆 · 声满全球: 韩艺璇和她的朋友们——2025中秋音乐会"
-*A Mid-Autumn Night of Music with Dr. Yixuan Han & Her Guests*
 author_profile: true
 redirect_from: 
   - /about/
