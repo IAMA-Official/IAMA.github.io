@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "IAMA-Offical"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "The International Association of Music and Arts"
+  location         : "Texas"
+  employer         : "The International Association of Music and Arts"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "iama.arts.org@gmail.com" 
 
   # Academic websites
   academia         : # URL
