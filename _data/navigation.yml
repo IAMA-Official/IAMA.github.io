@@ -14,8 +14,8 @@ main:
   - title: "HanOpera官网链接"
     url: "https://hanopera.com/"
 
-  #- title: "CCC"
-  #  url: /teaching/    
+  - title: "活动日历"
+    url: "https://www.iama-world.org/events.html"
     
   #- title: "DDD"
   #  url: /portfolio/
