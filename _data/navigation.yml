@@ -8,8 +8,8 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  #- title: "AAA"
-  #  url: /publications/
+  - title: "IAMA官网链接"
+    url: "https://www.iama-world.org/"
 
   #- title: "BBB"
   #  url: /talks/    
