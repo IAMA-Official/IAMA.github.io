@@ -54,13 +54,13 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : "https://www.facebook.com/hanopera/"
+  facebook         : "hanopera/"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/hanopera_music_academy"
+  instagram        : "hanopera_music_academy"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -75,7 +75,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "www.youtube.com/@YixuanHan"
+  youtube          : "@YixuanHan"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
