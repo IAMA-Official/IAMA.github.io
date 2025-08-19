@@ -53,8 +53,8 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  facebook         : "https://m.facebook.com/hanopera/"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
@@ -75,7 +75,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://m.youtube.com/@yixuanhan"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
